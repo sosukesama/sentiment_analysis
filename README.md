@@ -52,7 +52,7 @@ pip install -r requirements.txt
 After setting up the project, you can run the Streamlit app with the following command:
 
 ```bash
-streamlit run app.py
+streamlit run sentiment_dashboard.py
 ```
 
 This will launch the application in your web browser, where you can input reviews and visualise sentiment analysis results.
