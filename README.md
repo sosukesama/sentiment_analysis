@@ -8,9 +8,6 @@ The goal of this project is to analyze customer reviews to determine their senti
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ### Technologies Used
 
